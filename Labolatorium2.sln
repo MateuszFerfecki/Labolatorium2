@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABOLATORIUM_5", "LABOLATOR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labolatorium_6", "Labolatorium_6\Labolatorium_6.csproj", "{19454B75-7149-4058-8DF7-3EB7175C02B8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interfaces", "interfaces", "{22B9CF29-0FCB-4998-B2FC-8EFF60A5F8D8}"
+	ProjectSection(SolutionItems) = preProject
+		1.cs = 1.cs
+		IBookRepository.cs = IBookRepository.cs
+		ICreationTime.cs = ICreationTime.cs
+		IEntity.cs = IEntity.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
