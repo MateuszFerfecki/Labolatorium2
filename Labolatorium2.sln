@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interfaces", "interfaces", 
 		IEntity.cs = IEntity.cs
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_7", "lab_7\lab_7.csproj", "{78107D59-123B-45FC-9222-77EC66229F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{19454B75-7149-4058-8DF7-3EB7175C02B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19454B75-7149-4058-8DF7-3EB7175C02B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19454B75-7149-4058-8DF7-3EB7175C02B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78107D59-123B-45FC-9222-77EC66229F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78107D59-123B-45FC-9222-77EC66229F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78107D59-123B-45FC-9222-77EC66229F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78107D59-123B-45FC-9222-77EC66229F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
