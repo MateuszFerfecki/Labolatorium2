@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interfaces", "interfaces", 
 		IEntity.cs = IEntity.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_7", "lab_7\lab_7.csproj", "{78107D59-123B-45FC-9222-77EC66229F7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABOLATORIUM_7", "lab_7\LABOLATORIUM_7.csproj", "{78107D59-123B-45FC-9222-77EC66229F7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
